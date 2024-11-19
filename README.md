@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=zakihaya)
 
 -->
+
+# My GitHub works
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakihaya&layout=compact&theme=buefy)
